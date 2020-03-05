@@ -1,0 +1,6 @@
+pandas 1.0.1
+numpy 1.18.1
+DateTime 4.3
+face-recognition 1.3.0
+opencv-python 4.2.0.32
+os-sys 2.1.4
